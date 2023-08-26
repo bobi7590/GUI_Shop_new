@@ -1,0 +1,7 @@
+{"id": 1, "name": "Samson Meteor", "count": 10, "image": "mic.jpg"}
+{"id": 2, "name": "Iphone X", "count": 1, "image": "iphoneX.jpg"}
+{"id": 3, "name": "Razor Kraren X", "count": 5, "image": "kraken.jpg"}
+{"id": 4, "name": "Acer Aspire 3", "count": 8, "image": "acer.jpg"}
+{"id": 5, "name": "PS5", "count": 15, "image": "PS5.jpg"}
+{"id": 6, "name": "Logitech g502", "count": 9, "image": "g502.jpg"}
+{"id": 7, "name": "Samsung LC-24RG52F", "count": 4, "image": "samsung.jpg"}
